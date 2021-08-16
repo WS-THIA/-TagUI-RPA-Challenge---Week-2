@@ -1,5 +1,6 @@
 # -TagUI-RPA-Challenge---Week-2
-### https://community.aisingapore.org/groups/tagui-rpa/forum/discussion/rpa-challenge-submissions/
+#### https://community.aisingapore.org/groups/tagui-rpa/forum/discussion/rpa-challenge-submissions/
+##### Based on https://developer.automationanywhere.com/blog/challenge-page-intro-supply-chain
 
 Here is my general approach using a mix of RPA (TagUI in turbo mode) and Selenium from Python:
 
